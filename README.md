@@ -1,3 +1,6 @@
+
+** IN PROGRESS **
+
 # Free Whisper
 
 A macOS menu bar app that transcribes your voice locally using OpenAI's Whisper model. No cloud, no subscription, no data ever leaves your machine. Press a hotkey, speak, press again — the text appears wherever your cursor is.
